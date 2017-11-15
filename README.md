@@ -1,2 +1,2 @@
-# RandD
+# R&D
 Documentation sur le R&amp;D
